@@ -1,0 +1,37 @@
+
+
+*{
+    font-family:cursive;
+}
+.calculator{
+    width: 220px;
+    background-color: rgb(239, 197, 197);
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+    flex-wrap:wrap;
+   
+}
+
+h1{
+    color: white;
+   
+}
+
+#display{
+    width: 100%;
+    padding: 7px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+   
+
+}
+
+.btn{
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    border: 0;
+    margin-bottom: 10px;
+    background-color: rgb(183, 238, 238);
+}
